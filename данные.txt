@@ -1,0 +1,10 @@
+Админ:
+
+log: admin
+pass: admin
+
+log: polzovatel
+pass: pol
+
+front : 3001
+back : 4201
